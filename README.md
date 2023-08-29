@@ -32,10 +32,7 @@ Now, my GitHub is focused on school projects.
 
 </div>
   <hr>
-  <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/EnzoBDF/count.svg" />
-</p>
+ 
 <div>
 <img align=middle src=https://i.pinimg.com/564x/27/27/2a/27272a705fc5c521b672ab446e76697e.jpg width=400 height=400> 
  </div>
