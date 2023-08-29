@@ -34,7 +34,7 @@ Now, my GitHub is focused on school projects.
   <hr>
  
 <div>
-<img align=middle src=https://i.pinimg.com/564x/27/27/2a/27272a705fc5c521b672ab446e76697e.jpg width=400 height=400> 
+<img align=middle src=https://i.pinimg.com/564x/cf/3d/67/cf3d67cc800b56d38c5fba0275fcc570.jpg width=600 height=200> 
  </div>
 
 <!---
